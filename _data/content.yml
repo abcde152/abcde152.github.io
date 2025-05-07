@@ -6,9 +6,9 @@
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile2.png"
-  image_alt: "OH YJ"
+  image_alt: "OH Youngjong"
   before_title: "환영합니다, <b>제 이름은</b>"
-  title: "<b>OH</b> YJ"
+  title: "<b>OH</b> Youngjong"
   after_title: "I am <strong>Cyber Security Professional</strong>"
   description: "폴리텍 대학 강서캠퍼스 사이버 보안과 2학년 입니다."
   button1:
