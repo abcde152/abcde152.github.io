@@ -70,22 +70,22 @@ skills:
 
   column1:
     items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
+      - label: "Linux" #0-10 progress in dots
+        text: "리눅스 마스터 2급 자격증 보유중 vim을 응용해서 iptables 구축 가능능."
+        value: "50" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+        text: "기본으로 사용되는 함수 응용 가능."
+        value: "40" #0-100 progress in %
 
   column2:
     items:
-      - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - label: "html" #0-10 progress in dots
+        text: "인강 수료 연말에 연회장 만들어본 경험이 있음."
         value: "75" #0-100 progress in %
 
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - label: "PowerPoint" #0-10 progress in dots
+        text: "템플릿을 사용한 학교 발표용 PPT 다수 제작작."
         value: "70" #0-100 progress in %
 
   column3:

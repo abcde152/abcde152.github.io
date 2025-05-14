@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-29T13:46:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Admin</name></author><entry><title type="html">By spite about do of do allow</title><link href="http://localhost:4000/music/2020/08/05/by-spite-about/" rel="alternate" type="text/html" title="By spite about do of do allow" /><published>2020-08-05T00:00:00+03:00</published><updated>2020-08-05T00:00:00+03:00</updated><id>http://localhost:4000/music/2020/08/05/by-spite-about</id><content type="html" xml:base="http://localhost:4000/music/2020/08/05/by-spite-about/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-14T13:40:05+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Luique</name></author><entry><title type="html">리눅스마스터 2급 자격증 취득 전략</title><link href="http://localhost:4000/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/" rel="alternate" type="text/html" title="리눅스마스터 2급 자격증 취득 전략" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>http://localhost:4000/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study</id><content type="html" xml:base="http://localhost:4000/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/"><![CDATA[<h1 id="리눅스마스터-2급-자격증-취득-전략">리눅스마스터 2급 자격증 취득 전략</h1>
+
+<p>리눅스마스터 2급은 시스템 및 네트워크 관리자에게 기본이 되는 리눅스 이해도를 평가하는 자격증입니다. 이번 글에서는 자격증을 효율적으로 취득하기 위한 전략을 공유합니다.</p>
+
+<hr />
+
+<h2 id="-1-학습-로드맵">✅ 1. 학습 로드맵</h2>
+
+<ul>
+  <li><strong>1단계: 기본 개념 이해</strong>
+    <ul>
+      <li>리눅스 파일 시스템 구조</li>
+      <li>기본 명령어 및 퍼미션 관리</li>
+      <li>프로세스 개념과 제어</li>
+    </ul>
+  </li>
+  <li><strong>2단계: 심화 이론 정리</strong>
+    <ul>
+      <li>부팅 과정과 runlevel</li>
+      <li>서비스/데몬 관리 (systemd)</li>
+      <li>네트워크 설정 (IP, DNS, 라우팅 등)</li>
+    </ul>
+  </li>
+  <li><strong>3단계: 문제풀이 및 실전 감각 키우기</strong>
+    <ul>
+      <li>기출문제 반복 풀이</li>
+      <li>틀린 문제 유형 분석</li>
+      <li>시험 직전 요약노트 정리</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="-2-추천-학습-자료">🧠 2. 추천 학습 자료</h2>
+
+<ul>
+  <li><strong>교재</strong>
+    <ul>
+      <li>이기적 리눅스마스터 2급</li>
+      <li>리눅스마스터 공식 수험서</li>
+    </ul>
+  </li>
+  <li><strong>사이트</strong>
+    <ul>
+      <li><a href="https://www.kait.or.kr">한국정보통신자격협회(KAIT)</a> (시험 일정 및 접수)</li>
+      <li>기출문제 공유 카페/블로그</li>
+      <li>유튜브 강의 (키워드: “리눅스마스터 2급 기출풀이”)</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="-3-공부-일정-예시-4주-계획">⏳ 3. 공부 일정 예시 (4주 계획)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>주차</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1주차</td>
+      <td>기본 명령어와 개념 정리</td>
+    </tr>
+    <tr>
+      <td>2주차</td>
+      <td>심화 이론 학습 + 실습 병행</td>
+    </tr>
+    <tr>
+      <td>3주차</td>
+      <td>기출문제 3회 반복 풀이</td>
+    </tr>
+    <tr>
+      <td>4주차</td>
+      <td>틀린 문제 복습 + 요약노트 완성</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="-4-시험-팁">📝 4. 시험 팁</h2>
+
+<ul>
+  <li>실제 시험은 <strong>시간이 부족하지 않음</strong> → 꼼꼼히 읽고 정확히 선택</li>
+  <li>헷갈리는 문제는 <strong>지문에 힌트가 숨어 있음</strong></li>
+  <li><strong>단축키, 명령어 철자 주의</strong> (예: <code class="language-plaintext highlighter-rouge">chmod</code>, <code class="language-plaintext highlighter-rouge">ps -ef</code>, <code class="language-plaintext highlighter-rouge">ls -al</code> 등)</li>
+</ul>
+
+<hr />
+
+<h2 id="-마무리">✊ 마무리</h2>
+
+<p>자격증은 <strong>목표가 있는 학습</strong>을 만들고, <strong>기초 실력을 탄탄히 다지는 계기</strong>가 됩니다. 꾸준한 복습과 실습이 핵심이며, 무엇보다도 <strong>실제 리눅스를 사용해보는 경험</strong>이 중요합니다.</p>
+
+<blockquote>
+  <p>다음 글에서는 주요 명령어를 유형별로 정리해보겠습니다. 😊</p>
+</blockquote>]]></content><author><name>Luique</name></author><category term="리눅스마스터" /><category term="자격증" /><category term="리눅스" /><category term="공부법" /><summary type="html"><![CDATA[리눅스마스터 2급 자격증 취득 전략]]></summary></entry><entry><title type="html">By spite about do of do allow</title><link href="http://localhost:4000/music/2020/08/05/by-spite-about/" rel="alternate" type="text/html" title="By spite about do of do allow" /><published>2020-08-05T00:00:00+09:00</published><updated>2020-08-05T00:00:00+09:00</updated><id>http://localhost:4000/music/2020/08/05/by-spite-about</id><content type="html" xml:base="http://localhost:4000/music/2020/08/05/by-spite-about/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
 
 <p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
 
@@ -21,7 +122,7 @@
 <span class="k">end</span>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Music" /><category term="rock" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog9.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog9.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Two Before Arrow Not Relied</title><link href="http://localhost:4000/design/2020/07/20/two-before-arrow/" rel="alternate" type="text/html" title="Two Before Arrow Not Relied" /><published>2020-07-20T00:00:00+03:00</published><updated>2020-07-20T00:00:00+03:00</updated><id>http://localhost:4000/design/2020/07/20/two-before-arrow</id><content type="html" xml:base="http://localhost:4000/design/2020/07/20/two-before-arrow/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Music" /><category term="rock" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog9.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog9.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Two Before Arrow Not Relied</title><link href="http://localhost:4000/design/2020/07/20/two-before-arrow/" rel="alternate" type="text/html" title="Two Before Arrow Not Relied" /><published>2020-07-20T00:00:00+09:00</published><updated>2020-07-20T00:00:00+09:00</updated><id>http://localhost:4000/design/2020/07/20/two-before-arrow</id><content type="html" xml:base="http://localhost:4000/design/2020/07/20/two-before-arrow/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
 
 <p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
 
@@ -44,7 +145,7 @@
 <span class="k">end</span>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="code" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog8.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design in Mobile Application</title><link href="http://localhost:4000/mobile/2020/07/05/design-in-mobile/" rel="alternate" type="text/html" title="Design in Mobile Application" /><published>2020-07-05T00:00:00+03:00</published><updated>2020-07-05T00:00:00+03:00</updated><id>http://localhost:4000/mobile/2020/07/05/design-in-mobile</id><content type="html" xml:base="http://localhost:4000/mobile/2020/07/05/design-in-mobile/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="code" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog8.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design in Mobile Application</title><link href="http://localhost:4000/mobile/2020/07/05/design-in-mobile/" rel="alternate" type="text/html" title="Design in Mobile Application" /><published>2020-07-05T00:00:00+09:00</published><updated>2020-07-05T00:00:00+09:00</updated><id>http://localhost:4000/mobile/2020/07/05/design-in-mobile</id><content type="html" xml:base="http://localhost:4000/mobile/2020/07/05/design-in-mobile/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
 
 <p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
 
@@ -67,7 +168,7 @@
 <span class="k">end</span>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Mobile" /><category term="app" /><category term="mobile" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">By spite about what to do</title><link href="http://localhost:4000/design/2020/06/15/by-spite-what/" rel="alternate" type="text/html" title="By spite about what to do" /><published>2020-06-15T00:00:00+03:00</published><updated>2020-06-15T00:00:00+03:00</updated><id>http://localhost:4000/design/2020/06/15/by-spite-what</id><content type="html" xml:base="http://localhost:4000/design/2020/06/15/by-spite-what/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Mobile" /><category term="app" /><category term="mobile" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">By spite about what to do</title><link href="http://localhost:4000/design/2020/06/15/by-spite-what/" rel="alternate" type="text/html" title="By spite about what to do" /><published>2020-06-15T00:00:00+09:00</published><updated>2020-06-15T00:00:00+09:00</updated><id>http://localhost:4000/design/2020/06/15/by-spite-what</id><content type="html" xml:base="http://localhost:4000/design/2020/06/15/by-spite-what/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
 
 <p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
 
@@ -90,9 +191,9 @@
 <span class="k">end</span>
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="Jekyll" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog6.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-08T00:00:00+02:00</published><updated>2020-01-08T00:00:00+02:00</updated><id>http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in <a href="https://jekyllrb.com/docs/usage/">many different ways</a>, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="Jekyll" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog6.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-08T00:00:00+09:00</published><updated>2020-01-08T00:00:00+09:00</updated><id>http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in <a href="https://jekyllrb.com/docs/usage/">many different ways</a>, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code><sup id="fnref:posts" role="doc-noteref"><a href="#fn:posts" class="footnote" rel="footnote">1</a></sup> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code><sup id="fnref:posts"><a href="#fn:posts" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
 <p>Jekyll also offers powerful support for code snippets:</p>
 
@@ -107,7 +208,7 @@
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:posts" role="doc-endnote">
+    <li id="fn:posts">
       <p>Footnote test. <a href="#fnref:posts" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
