@@ -71,7 +71,7 @@ skills:
   column1:
     items:
       - label: "Linux" #0-10 progress in dots
-        text: "리눅스 마스터 2급 자격증 보유중 vim을 응용해서 iptables 구축 가능능."
+        text: "리눅스 마스터 2급 자격증 보유중 vim을 응용해서 iptables 구축 가능."
         value: "50" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
@@ -85,18 +85,18 @@ skills:
         value: "75" #0-100 progress in %
 
       - label: "PowerPoint" #0-10 progress in dots
-        text: "템플릿을 사용한 학교 발표용 PPT 다수 제작작."
+        text: "템플릿을 사용한 학교 발표용 PPT 다수 제작."
         value: "70" #0-100 progress in %
 
   column3:
     items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
+      - label: "C" #0-10 progress in dots
+        text: "C언어 재귀함수 까지 학교에서 공부."
+        value: "50" #0-100 progress in %
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+      - label: "Excel" #0-10 progress in dots
+        text: "Excel 함수로 쉽게 정리하는법 공부중."
+        value: "50" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
