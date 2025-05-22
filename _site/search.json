@@ -1,51 +1,35 @@
 [
   
     {
+      "title"    : "네트워크관리사 2급 자격증 취득 전략",
+      "category" : "",
+      "tags"     : "자격증, 네트워크, 공부법",
+      "url"      : "/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC/2025/05/14/network-study/",
+      "date"     : "2025-05-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "정보처리산업기사 자격증 취득 전략",
+      "category" : "",
+      "tags"     : "자격증, 정보처리, 공부법",
+      "url"      : "/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/2025/05/14/it-engineer/",
+      "date"     : "2025-05-14 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "정보보안기사 자격증 취득 전략",
+      "category" : "",
+      "tags"     : "자격증, 보안, 공부법",
+      "url"      : "/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC/2025/05/14/info-security/",
+      "date"     : "2025-05-14 00:00:00 +0900"
+    } ,
+  
+    {
       "title"    : "리눅스마스터 2급 자격증 취득 전략",
       "category" : "",
       "tags"     : "자격증, 리눅스, 공부법",
       "url"      : "/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/",
       "date"     : "2025-05-14 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "By spite about do of do allow",
-      "category" : "Music",
-      "tags"     : "rock",
-      "url"      : "/music/2020/08/05/by-spite-about/",
-      "date"     : "2020-08-05 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "Two Before Arrow Not Relied",
-      "category" : "Design",
-      "tags"     : "code",
-      "url"      : "/design/2020/07/20/two-before-arrow/",
-      "date"     : "2020-07-20 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "Design in Mobile Application",
-      "category" : "Mobile",
-      "tags"     : "app, mobile",
-      "url"      : "/mobile/2020/07/05/design-in-mobile/",
-      "date"     : "2020-07-05 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "By spite about what to do",
-      "category" : "Design",
-      "tags"     : "Jekyll",
-      "url"      : "/design/2020/06/15/by-spite-what/",
-      "date"     : "2020-06-15 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll!",
-      "category" : "VideoMusic",
-      "tags"     : "Jekyll",
-      "url"      : "/video/music/2020/01/08/welcome-to-jekyll/",
-      "date"     : "2020-01-08 00:00:00 +0900"
     } 
   
 ]

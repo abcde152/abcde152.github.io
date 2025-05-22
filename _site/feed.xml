@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-14T14:01:12+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Luique</name></author><entry><title type="html">리눅스마스터 2급 자격증 취득 전략</title><link href="http://localhost:4000/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/" rel="alternate" type="text/html" title="리눅스마스터 2급 자격증 취득 전략" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>http://localhost:4000/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study</id><content type="html" xml:base="http://localhost:4000/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/"><![CDATA[<h1 id="리눅스마스터-2급-자격증-취득-전략">리눅스마스터 2급 자격증 취득 전략</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://abcd152.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://abcd152.github.io/" rel="alternate" type="text/html" /><updated>2025-05-22T17:02:40+09:00</updated><id>https://abcd152.github.io/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Luique</name></author><entry><title type="html">네트워크관리사 2급 자격증 취득 전략</title><link href="https://abcd152.github.io/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC/2025/05/14/network-study/" rel="alternate" type="text/html" title="네트워크관리사 2급 자격증 취득 전략" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>https://abcd152.github.io/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC/2025/05/14/network-study</id><content type="html" xml:base="https://abcd152.github.io/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC/2025/05/14/network-study/"><![CDATA[<h1 id="네트워크관리사-2급-자격증-취득-전략">네트워크관리사 2급 자격증 취득 전략</h1>
+
+<p>네트워크관리사 2급은 네트워크 기초 지식과 설정 능력을 평가하는 민간자격증입니다. 필기와 실기로 구성되며, 특히 실기에서 <strong>명령어 실습과 상황 대처 능력</strong>이 중요합니다.</p>
+
+<hr />
+
+<h2 id="-학습-로드맵">✅ 학습 로드맵</h2>
+
+<ul>
+  <li><strong>1단계</strong>: OSI 7계층 / TCP/IP 구조 이해</li>
+  <li><strong>2단계</strong>: 명령어 학습 (ipconfig, ping, tracert 등)</li>
+  <li><strong>3단계</strong>: 스위치/라우터 기본 설정 연습</li>
+  <li><strong>4단계</strong>: 실기 문제 반복 실습</li>
+</ul>
+
+<hr />
+
+<h2 id="-추천-자료">📚 추천 자료</h2>
+
+<ul>
+  <li>교재: 에듀윌, 한권으로 끝내는 네트워크관리사</li>
+  <li>실습: 패킷 트레이서 / GNS3</li>
+  <li>기출: 정보통신자격센터 사이트</li>
+</ul>
+
+<hr />
+
+<h2 id="-실기-팁">🧪 실기 팁</h2>
+
+<ul>
+  <li>명령어는 오타 없이 정확히 외우기</li>
+  <li>시뮬레이터보다 실제 환경에서 실습하면 더 효과적</li>
+  <li>실기 체크리스트 만들기 (IP 설정, 라우팅, VLAN 등)</li>
+</ul>
+
+<hr />
+
+<h2 id="-4주-공부-계획-예시">✅ 4주 공부 계획 예시</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>주차</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1주차</td>
+      <td>OSI 7계층 &amp; 명령어 기본 정리</td>
+    </tr>
+    <tr>
+      <td>2주차</td>
+      <td>네트워크 구성도 해석 + 실기 연습</td>
+    </tr>
+    <tr>
+      <td>3주차</td>
+      <td>기출문제 풀이 + 장비 설정 실습</td>
+    </tr>
+    <tr>
+      <td>4주차</td>
+      <td>모의시험 + 부족한 부분 복습</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<blockquote>
+  <p>다음 글에서는 <strong>기출 기준으로 정리한 네트워크 명령어 총정리</strong>를 다룹니다.</p>
+</blockquote>]]></content><author><name>Luique</name></author><category term="네트워크관리사" /><category term="자격증" /><category term="네트워크" /><category term="공부법" /><summary type="html"><![CDATA[네트워크관리사 2급 자격증 취득 전략]]></summary></entry><entry><title type="html">리눅스마스터 2급 자격증 취득 전략</title><link href="https://abcd152.github.io/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/" rel="alternate" type="text/html" title="리눅스마스터 2급 자격증 취득 전략" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>https://abcd152.github.io/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study</id><content type="html" xml:base="https://abcd152.github.io/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0/2025/05/14/liunx-study/"><![CDATA[<h1 id="리눅스마스터-2급-자격증-취득-전략">리눅스마스터 2급 자격증 취득 전략</h1>
 
 <p>리눅스마스터 2급은 시스템 및 네트워크 관리자에게 기본이 되는 리눅스 이해도를 평가하는 자격증입니다. 이번 글에서는 자격증을 효율적으로 취득하기 위한 전략을 공유합니다.</p>
 
@@ -99,117 +169,148 @@
 
 <blockquote>
   <p>다음 글에서는 주요 명령어를 유형별로 정리해보겠습니다. 😊</p>
-</blockquote>]]></content><author><name>Luique</name></author><category term="리눅스마스터" /><category term="자격증" /><category term="리눅스" /><category term="공부법" /><summary type="html"><![CDATA[리눅스마스터 2급 자격증 취득 전략]]></summary></entry><entry><title type="html">By spite about do of do allow</title><link href="http://localhost:4000/music/2020/08/05/by-spite-about/" rel="alternate" type="text/html" title="By spite about do of do allow" /><published>2020-08-05T00:00:00+09:00</published><updated>2020-08-05T00:00:00+09:00</updated><id>http://localhost:4000/music/2020/08/05/by-spite-about</id><content type="html" xml:base="http://localhost:4000/music/2020/08/05/by-spite-about/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+</blockquote>]]></content><author><name>Luique</name></author><category term="리눅스마스터" /><category term="자격증" /><category term="리눅스" /><category term="공부법" /><summary type="html"><![CDATA[리눅스마스터 2급 자격증 취득 전략]]></summary></entry><entry><title type="html">정보보안기사 자격증 취득 전략</title><link href="https://abcd152.github.io/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC/2025/05/14/info-security/" rel="alternate" type="text/html" title="정보보안기사 자격증 취득 전략" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>https://abcd152.github.io/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC/2025/05/14/info-security</id><content type="html" xml:base="https://abcd152.github.io/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC/2025/05/14/info-security/"><![CDATA[<h1 id="정보보안기사-자격증-취득-전략">정보보안기사 자격증 취득 전략</h1>
 
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
+<p>정보보안기사는 국가기술자격증으로, 정보보호 기술/관리/물리 보안에 대한 전반적인 이해와 실무 능력을 평가합니다. <strong>필기 + 실기</strong>의 이론 중심 시험입니다.</p>
 
-<blockquote>
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.</p>
-</blockquote>
+<hr />
 
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<h2 id="-학습-로드맵">✅ 학습 로드맵</h2>
 
 <ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
+  <li><strong>1단계</strong>: 정보보안 개론 &amp; 암호학 개념 익히기</li>
+  <li><strong>2단계</strong>: 시스템/네트워크 보안 심화 이론 학습</li>
+  <li><strong>3단계</strong>: 기출문제 반복 풀이 + 요약노트 정리</li>
+  <li><strong>4단계</strong>: 실기 키워드 암기 및 서술형 대비</li>
 </ul>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Music" /><category term="rock" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog9.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog9.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Two Before Arrow Not Relied</title><link href="http://localhost:4000/design/2020/07/20/two-before-arrow/" rel="alternate" type="text/html" title="Two Before Arrow Not Relied" /><published>2020-07-20T00:00:00+09:00</published><updated>2020-07-20T00:00:00+09:00</updated><id>http://localhost:4000/design/2020/07/20/two-before-arrow</id><content type="html" xml:base="http://localhost:4000/design/2020/07/20/two-before-arrow/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
-
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
-
-<blockquote>
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.</p>
-</blockquote>
-
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<h2 id="-추천-자료">📚 추천 자료</h2>
 
 <ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
+  <li>교재: 길벗, 이기적 정보보안기사</li>
+  <li>사이트: 한국인터넷진흥원(KISA), CBT 기출 공유 커뮤니티</li>
+  <li>유튜브 강의: ‘정보보안기사 4주 완성’ 시리즈</li>
 </ul>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="code" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog8.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design in Mobile Application</title><link href="http://localhost:4000/mobile/2020/07/05/design-in-mobile/" rel="alternate" type="text/html" title="Design in Mobile Application" /><published>2020-07-05T00:00:00+09:00</published><updated>2020-07-05T00:00:00+09:00</updated><id>http://localhost:4000/mobile/2020/07/05/design-in-mobile</id><content type="html" xml:base="http://localhost:4000/mobile/2020/07/05/design-in-mobile/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
-
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
-
-<blockquote>
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.</p>
-</blockquote>
-
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<h2 id="️-실기-팁">✍️ 실기 팁</h2>
 
 <ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
+  <li>키워드 중심으로 서술 연습</li>
+  <li>과거 기출문제에서 반복된 유형 위주 암기</li>
+  <li>시스템 보안 vs 네트워크 보안 구분해서 정리</li>
 </ul>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Mobile" /><category term="app" /><category term="mobile" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">By spite about what to do</title><link href="http://localhost:4000/design/2020/06/15/by-spite-what/" rel="alternate" type="text/html" title="By spite about what to do" /><published>2020-06-15T00:00:00+09:00</published><updated>2020-06-15T00:00:00+09:00</updated><id>http://localhost:4000/design/2020/06/15/by-spite-what</id><content type="html" xml:base="http://localhost:4000/design/2020/06/15/by-spite-what/"><![CDATA[<p>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</p>
+<h2 id="-46주-공부-계획-예시">✅ 4~6주 공부 계획 예시</h2>
 
-<p>Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.</p>
+<table>
+  <thead>
+    <tr>
+      <th>주차</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1주차</td>
+      <td>보안 개론, 암호학 개념 정리</td>
+    </tr>
+    <tr>
+      <td>2주차</td>
+      <td>시스템, 네트워크 보안 정리</td>
+    </tr>
+    <tr>
+      <td>3주차</td>
+      <td>필기 기출문제 집중 학습</td>
+    </tr>
+    <tr>
+      <td>4주차</td>
+      <td>실기 요약정리 + 서술형 작성 연습</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
 
 <blockquote>
-  <p>For me, the design — it is the quality of life. Good design has little to do with trends. Tired of listening to how he try to give the status of a frivolous fashion phenomenon. In my opinion, the designer should strive to do more than separate things.</p>
-</blockquote>
+  <p>다음 글에서는 <strong>실기 기출에서 반복되는 서술형 키워드 정리</strong>를 소개합니다.</p>
+</blockquote>]]></content><author><name>Luique</name></author><category term="정보보안기사" /><category term="자격증" /><category term="보안" /><category term="공부법" /><summary type="html"><![CDATA[정보보안기사 자격증 취득 전략]]></summary></entry><entry><title type="html">정보처리산업기사 자격증 취득 전략</title><link href="https://abcd152.github.io/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/2025/05/14/it-engineer/" rel="alternate" type="text/html" title="정보처리산업기사 자격증 취득 전략" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>https://abcd152.github.io/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/2025/05/14/it-engineer</id><content type="html" xml:base="https://abcd152.github.io/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC/2025/05/14/it-engineer/"><![CDATA[<h1 id="정보처리산업기사-자격증-취득-전략">정보처리산업기사 자격증 취득 전략</h1>
 
-<p>Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing <a href="#">link</a> sufficient everything men him admiration unpleasing .</p>
+<p>정보처리산업기사는 소프트웨어, DB, 시스템 설계 등 정보기술 전반의 지식을 평가하는 <strong>국가기술자격증</strong>입니다. IT 직군 취업 시 매우 유리합니다.</p>
+
+<hr />
+
+<h2 id="-학습-로드맵">✅ 학습 로드맵</h2>
 
 <ul>
-  <li>Greatest properly off ham exercise all.</li>
-  <li>Unsatiable invitation its possession nor off.</li>
-  <li>All difficulty estimating unreserved increasing the solicitude.</li>
+  <li><strong>1단계</strong>: 프로그래밍 언어와 운영체제 개념 정리</li>
+  <li><strong>2단계</strong>: 데이터베이스 설계 / 정규화 / SQL</li>
+  <li><strong>3단계</strong>: 시스템 개발 및 관리 개념</li>
+  <li><strong>4단계</strong>: 기출 문제 반복 풀이 및 서술형 연습</li>
 </ul>
 
-<p>Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Ryan'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Ryan' to STDOUT.</span>
-</code></pre></div></div>]]></content><author><name>Ryan Adlard</name></author><category term="Design" /><category term="Jekyll" /><summary type="html"><![CDATA[So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog6.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-08T00:00:00+09:00</published><updated>2020-01-08T00:00:00+09:00</updated><id>http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/video/music/2020/01/08/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in <a href="https://jekyllrb.com/docs/usage/">many different ways</a>, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<h2 id="-추천-자료">📚 추천 자료</h2>
 
-<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code><sup id="fnref:posts"><a href="#fn:posts" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<ul>
+  <li>교재: 길벗 정보처리산업기사, 이기적 시리즈</li>
+  <li>사이트: 큐넷(Q-net), 기출 공유 블로그</li>
+  <li>실습: Python / SQL 실습 추천</li>
+</ul>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<hr />
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span>
-</code></pre></div></div>
+<h2 id="-실기-팁">💡 실기 팁</h2>
 
-<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+<ul>
+  <li>서술형은 <strong>암기 + 키워드 조합</strong>으로 연습</li>
+  <li>시스템 생명주기(SDLC), 소프트웨어 공학 파트는 자주 출제</li>
+  <li>DB 문제는 실습해보는 것이 이해에 좋음</li>
+</ul>
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:posts">
-      <p>Footnote test. <a href="#fnref:posts" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>Sarah Rose</name></author><category term="[&quot;Video&quot;, &quot;Music&quot;]" /><category term="Jekyll" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-4-scaled-1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-4-scaled-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<hr />
+
+<h2 id="-공부-플랜-예시-5주">✅ 공부 플랜 예시 (5주)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>주차</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1주차</td>
+      <td>운영체제 / 프로그래밍 언어 이론 정리</td>
+    </tr>
+    <tr>
+      <td>2주차</td>
+      <td>DB 설계, 정규화, SQL 실습</td>
+    </tr>
+    <tr>
+      <td>3주차</td>
+      <td>시스템 분석/설계, 소프트웨어공학 이론</td>
+    </tr>
+    <tr>
+      <td>4주차</td>
+      <td>필기 + 실기 기출문제 풀이</td>
+    </tr>
+    <tr>
+      <td>5주차</td>
+      <td>서술형 작성 연습 + 오답노트 정리</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<blockquote>
+  <p>다음 글에서는 <strong>서술형 실기 문제에서 자주 나오는 핵심 키워드 요약</strong>을 정리합니다.</p>
+</blockquote>]]></content><author><name>Luique</name></author><category term="정보처리산업기사" /><category term="자격증" /><category term="정보처리" /><category term="공부법" /><summary type="html"><![CDATA[정보처리산업기사 자격증 취득 전략]]></summary></entry></feed>
