@@ -4,12 +4,12 @@ layout: works-single
 title: 리눅스마스터 2급
 category: license
 category_slug: license
-image: assets/img/linux1020.jpg
+image: assets/img/linux1920.jpg
 short_description: Vim을 활용한 iptables 구축 경험이 있으며, 리눅스 명령어를 통해 시스템 문제를 효과적으로 분석하고 해결합니다.
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/linux1920.jpg
+full_image: assets/img/linux1020.jpg
 info:
   - label: Year
     value: 2024
