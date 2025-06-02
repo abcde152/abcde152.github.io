@@ -17,7 +17,7 @@ info:
   - label: Technology
     value: Linux Master Level 2
 
-description1:S
+description1:
   show: yes
   title: Project Goal
   text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
