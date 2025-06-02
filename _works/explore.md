@@ -1,15 +1,15 @@
 ---
 # preview details
 layout: works-single
-title: Explore
+title: 리눅스마스터 2급
 category: Development
 category_slug: development
-image: assets/img/works/work7.jpg
+image: assets/img/linux0328.jpg
 short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/linux0328.jpg
 info:
   - label: Year
     value: 2022
