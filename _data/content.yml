@@ -29,7 +29,7 @@ hero:
 services:
   title: "What I Do"
   subtitle: "my <b>Services</b>"
-  bg_title: "Services"
+  bg_title: "Expertise"
 
   items:
     - title: "나의 기술 여정"
@@ -71,31 +71,31 @@ skills:
   column1:
     items:
       - label: "Linux" #0-10 progress in dots
-        text: "리눅스 마스터 2급 자격증 보유중 vim을 응용해서 iptables 구축 가능."
+        text: "리눅스마스터 2급 자격증을 보유하고 있으며, CLI 환경에서 시스템 관리 및 문제 해결에 능숙합니다. 특히 Vim을 활용한 설정 파일 편집과 iptables를 이용한 방화벽 구축 경험을 통해 네트워크 보안 기초 역량을 갖추고 있습니다."
         value: "50" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "기본으로 사용되는 함수 응용 가능."
+        text: "파이썬 기본 문법과 내장 함수를 활용하여 데이터 처리 및 자동화 스크립트 작성이 가능하며, 다양한 라이브러리를 활용한 데이터 분석 및 웹 스크래핑 경험이 있습니다. 또한, 파이썬을 이용한 간단한 웹 애플리케이션 개발 경험도 보유하고 있습니다."
         value: "40" #0-100 progress in %
 
   column2:
     items:
       - label: "html" #0-10 progress in dots
-        text: "인강 수료 연말에 연회장 만들어본 경험이 있음."
+        text: "웹 표준 및 웹 접근성을 준수하는 HTML5 마크업 작성에 능숙하며, 시맨틱 태그를 활용하여 웹 페이지 구조를 효율적으로 설계합니다. 온라인 강의 수료 및 다수의 웹페이지 제작 경험을 통해 견고하고 유지보수하기 쉬운 프론트엔드 기반을 구축할 수 있습니다."
         value: "75" #0-100 progress in %
 
       - label: "PowerPoint" #0-10 progress in dots
-        text: "템플릿을 사용한 학교 발표용 PPT 다수 제작."
+        text: "다양한 템플릿을 활용하여 학교 발표 및 보고서용 PPT를 다수 제작했습니다. 시각적 자료 구성 능력과 애니메이션 효과를 통해 정보를 명확하고 효과적으로 전달하며, 발표 내용의 핵심을 부각시키는 디자인 감각을 갖추고 있습니다."
         value: "70" #0-100 progress in %
 
   column3:
     items:
       - label: "C" #0-10 progress in dots
-        text: "C언어 재귀함수 까지 학교에서 공부."
+        text: "C언어의 기본 문법부터 자료구조, 알고리즘(재귀 함수 포함)까지 학습하며 프로그래밍 기초를 다졌습니다. 효율적인 코드 작성 능력과 메모리 관리의 중요성을 이해하고 있으며, 문제 해결 역량을 갖추고 있습니다."
         value: "50" #0-100 progress in %
 
       - label: "Excel" #0-10 progress in dots
-        text: "Excel 함수로 쉽게 정리하는법 공부중."
+        text: "엑셀의 기본 기능과 다양한 함수(SUM, AVERAGE, IF, VLOOKUP 등)를 활용하여 데이터를 효율적으로 정리하고 분석할 수 있습니다. 현재 함수를 이용한 데이터 정리 및 피벗 테이블 등 심화 기능을 학습하며 실무 활용 역량을 강화하고 있습니다."
         value: "50" #0-100 progress in %
 
 ### Resume [ resume ]
