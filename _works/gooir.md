@@ -1,21 +1,21 @@
 ---
 # preview details
 layout: works-single
-title: Gooir
-category: UI UX Design
-category_slug: ui-ux-design
-image: assets/img/works/work4.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+title: 채팅 암호화 프로젝트
+category: Cyber Security
+category_slug: Cyber Security
+image: assets/img/works/cipher-main.jpeg
+short_description: 이 프로젝트는 HTML을 기반으로 사용자 인터페이스를 구현하고, 데이터베이스와 연동하여 채팅 기록을 관리하며, 암호화 기술을 적용해 통신 보안을 강화한 웹 기반 채팅 암호화 사이트입니다.
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/works/cipher1920.jpg
 info:
   - label: Year
-    value: 2022
+    value: 2025
 
   - label: Technology
-    value: Figma, UI
+    value: html, vscode, mysql, RSA
 
 description1:
   show: yes
