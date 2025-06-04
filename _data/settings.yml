@@ -18,19 +18,19 @@ header:
     image: "assets/img/logo2.png"
     alt: "Zoé Miller"
 
-### Social
-social:
-  - title: "Twitter"
-    icon: "fab fa-twitter"
-    url: "http://twitter.com"
+# Social
+# social:
+#   - title: "Twitter"
+#     icon: "fab fa-twitter"
+#     url: "http://twitter.com"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
+#   - title: "Dribbble"
+#     icon: "fab fa-dribbble"
+#     url: "http://dribbble.com"
 
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
+#   - title: "Behance"
+#     icon: "fab fa-behance"
+#     url: "http://behance.com"
 
 ### Footer
 footer:
