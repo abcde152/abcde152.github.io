@@ -259,13 +259,13 @@ contacts:
       icon: "far fa-map"
       text: "Gangseogu, Seoul, South Korea"
 
-    - label: "Freelance"
-      icon: "far fa-user"
-      text: "Available Right Now"
+    # - label: "Freelance"
+    #   icon: "far fa-user"
+    #   text: "Available Right Now"
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "2420110197@moffice.kopo.ac.kr"
+      text: "2420110197@office.kopo.ac.kr"
 
     - label: "Phone"
       icon: "far fa-address-book"
