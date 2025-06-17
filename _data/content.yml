@@ -107,20 +107,21 @@ resume:
   education:
     title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국폴리텍 대학 강서캠퍼스"
+        subname: "사이버 보안과"
+        period: "2024 - 2025"
+        text: "사이버보안을을 전공하며, **네트워크 보안, 암호학, 운영체제 보안** 등 핵심 이론을 학습했습니다. 졸업 프로젝트로 **[채팅 암호화 프로젝트]**를 수행하며 **웹 기반 보안 시스템 구현 능력**을 향상시켰습니다. 또한, **데이터베이스 보안 및 시스템 취약점 분석**에 대한 깊은 이해를 갖추었습니다."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국정보통신진흥협회 (KAIT)"
+        subname: "리눅스마스터 2급 자격증 취득"
+        period: "2025"
+        text: "국가공인 리눅스마스터 2급 자격증을 취득하며 **리눅스 시스템의 전반적인 운영 및 관리에 대한 전문성**을 입증했습니다. **Vim을 활용한 iptables 구축** 등 실제 서버 보안 설정 경험을 통해 리눅스 환경에서의 **시스템 문제 분석 및 해결 능력**을 강화했습니다."
+
+      # - name: "IT Future"
+      #   subname: "High School"
+      #   period: "2010 - 2012"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   experience:
     title: "Experience"
