@@ -22,7 +22,7 @@ main:
     parent: 0
 
   # Works
-  - title: "Works"
+  - title: "PORTFOLIO"
     url: "#works-section"
     parent: 0
 
@@ -57,7 +57,7 @@ main:
     url: ""
     parent: 1
     childs:
-        - title: "Works"
+        - title: "PORTFOLIO"
           url: "works/"
 
         - title: "Blog"
