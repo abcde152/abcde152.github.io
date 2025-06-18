@@ -4,7 +4,7 @@ title: "리눅스마스터 2급 자격증 취득 전략"
 date: 2025-05-14 10:00:00 +0900 
 categories: [리눅스마스터]
 tags: [자격증, 리눅스, 공부법]
-image: "assets/img/kait.png"
+image: "assets/img/kait2.png"
 ---
 
 # 리눅스마스터 2급 자격증 취득 전략
