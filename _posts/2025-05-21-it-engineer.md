@@ -4,7 +4,7 @@ title: "정보처리기사 자격증 취득 전략"
 date: 2025-05-14 10:00:00 +0900
 categories: [정보처리기사]
 tags: [자격증, 정보처리, 공부법]
-image: "assets/img/q-net.png" # Q-net 로고 이미지가 적절합니다.
+image: "assets/img/q-net2.png" 
 ---
 
 # 정보처리기사 자격증 취득 전략

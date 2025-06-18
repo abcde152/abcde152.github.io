@@ -4,7 +4,7 @@ title: "네트워크관리사 2급 자격증 취득 전략"
 date: 2025-05-14 10:00:00 +0900 
 categories: [네트워크관리사]
 tags: [자격증, 네트워크, 공부법]
-image: "assets/img/ICQA.png"
+image: "assets/img/ICQA2.png"
 ---
 
 # 네트워크관리사 2급 자격증 취득 전략
