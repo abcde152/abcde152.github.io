@@ -1,4 +1,5 @@
 ---
+# preview details
 layout: works-single
 title: 채팅 암호화 프로젝트
 category: Cyber Security
@@ -30,9 +31,9 @@ description1:
   <p>궁극적으로 이 프로젝트를 통해 웹 보안, 데이터베이스 관리, 그리고 핵심적인 암호화 알고리즘의 실제 적용 능력을 향상시키고자 했습니다.</p>"
 
 gallery:
-  - assets/img/works/cipher-screenshot1.jpg # 프로젝트의 실제 UI 스크린샷 1
-  - assets/img/works/cipher-screenshot2.jpg # 프로젝트의 실제 UI 스크린샷 2
-  - assets/img/works/cipher-screenshot3.jpg # 암호화/복호화 과정 또는 DB 구조를 보여주는 스크린샷
+  - assets/img/works/lobby.png # 프로젝트의 실제 UI 스크린샷 1
+  - assets/img/works/11.png # 프로젝트의 실제 UI 스크린샷 2
+  - assets/img/works/many.png # 암호화/복호화 과정 또는 DB 구조를 보여주는 스크린샷
 
 description2:
   title: 주요 기능 및 구현 성과
@@ -46,8 +47,8 @@ description2:
   </ul>
   <p>이 프로젝트를 통해 <b>RSA 암호화 알고리즘의 동작 원리와 실제 적용 방법</b>에 대한 깊이 있는 이해를 얻었으며, <b>풀스택 웹 개발 과정에서의 보안 고려 사항</b>을 체득할 수 있었습니다. 특히, 프론트엔드와 백엔드 간의 안전한 데이터 통신 흐름을 설계하고 구현하는 과정에서 문제 해결 능력과 실무 역량을 크게 향상시킬 수 있었습니다.</p>"
 
-video:
-  poster: assets/img/works/cipher-video-poster.jpg # 프로젝트 시연 영상의 대표 이미지
-  id: YourYoutubeVideoIDHere # 프로젝트 시연 영상의 YouTube ID (실제 시연 영상을 만드세요!)
+# video:
+#   poster: assets/img/works/cipher-video-poster.jpg # 프로젝트 시연 영상의 대표 이미지
+#   id: YourYoutubeVideoIDHere # 프로젝트 시연 영상의 YouTube ID (실제 시연 영상을 만드세요!)
 
----
+# ---
