@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "리눅스마스터 2급 자격증 취득 전략"
 date: 2025-05-14
 categories: [리눅스마스터]
