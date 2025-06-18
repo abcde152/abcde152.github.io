@@ -4,7 +4,7 @@ title: "정보보안기사 자격증 취득 전략"
 date: 2025-05-14 10:00:00 +0900 
 categories: [정보보안기사]
 tags: [자격증, 보안, 공부법]
-image: "assets/img/KCA.png"
+image: "assets/img/KCA2.png"
 ---
 
 # 정보보안기사 자격증 취득 전략
