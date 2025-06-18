@@ -8,7 +8,7 @@ image: assets/img/works/cipher-main.jpeg
 short_description: 이 프로젝트는 HTML을 기반으로 사용자 인터페이스를 구현하고, 데이터베이스와 연동하여 채팅 기록을 관리하며, 암호화 기술을 적용해 통신 보안을 강화한 웹 기반 채팅 암호화 사이트입니다.
 
 # full details
-live_preview: https://bslthemes.com
+# live_preview: https://bslthemes.com
 full_image: assets/img/works/cipher1920.jpg
 info:
   - label: Year
@@ -20,7 +20,7 @@ info:
 description1:
   show: yes
   title: Project Goal
-  text: |
+  text1 : 
     <p>최근 개인 정보 유출 및 통신 감청의 위험이 증가함에 따라, 안전한 소통 환경의 중요성이 부각되고 있습니다. 본 <b>채팅 암호화 프로젝트</b>는 사용자들이 안심하고 메시지를 주고받을 수 있는 보안 강화된 웹 기반 채팅 시스템을 구축하는 것을 목표로 하였습니다. 특히, 평문에 전송되는 메시지가 탈취될 경우 발생할 수 있는 잠재적 위험을 인지하고, 이를 방지하기 위한 강력한 암호화 메커니즘 도입에 집중했습니다.</p>
     <p>주요 목표는 다음과 같습니다:</p>
     <ul>
@@ -38,7 +38,7 @@ gallery:
 
 description2:
   title: Project Result
-  text: |
+  text1 : 
     <p>본 채팅 암호화 프로젝트는 다음과 같은 주요 기능 및 기술적 성과를 달성했습니다:</p>
     <ul>
     <li><b>보안 채팅 기능</b>: 모든 채팅 메시지는 전송 전에 RSA 알고리즘을 사용하여 암호화되며, 수신 시에는 복호화되어 사용자에게만 내용이 공개되도록 보장합니다. 이는 중간자 공격(Man-in-the-Middle Attack)으로부터 통신을 보호합니다.</li>
