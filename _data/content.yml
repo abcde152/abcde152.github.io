@@ -126,20 +126,20 @@ resume:
   experience:
     title: "Experience"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "졸업 프로젝트: 웹 기반 채팅 암호화 시스템 개발"
+        subname: "프로젝트 PM"
+        period: "2025년 3월 - 2025년 6월"
+        text: "다대다 채팅 시스템의 통신 보안 강화를 목표로 파이썬(Django)과 비대칭 암호화(RSA)를 활용하여 메시지 암복호화 기능을 구현했습니다. 사용자 인증 모듈을 개발하고, 주요 보안 취약점을 분석하여 안전한 웹 환경을 구축하는 데 기여했습니다. 프로젝트를 통해 실제 보안 시스템 설계 및 구현 역량을 강화했습니다."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "자격증 취득을 통한 실무 역량 강화"
+        subname: "개인 스터디 및 실습"
+        period: "2025"
+        text: "국가공인 리눅스마스터 2급 자격증 취득 과정에서 리눅스 CLI 환경에 대한 깊은 이해를 쌓았습니다. 특히 Vim 에디터를 활용하여 서버 설정 파일을 직접 편집하고, iptables를 이용한 네트워크 방화벽 구축 및 관리 실습을 통해 기본적인 시스템 보안 역량을 확보했습니다."
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "모의해킹 동아리 VANGUARD 활동"
+        subname: "한국폴리텍대학 강서캠퍼스"
+        period: "2024 - 2025"
+        text: "교내 모의해킹 동아리 VANGUARD에서 활동하며 실제 시스템 및 웹 애플리케이션에 대한 취약점 분석과 모의 공격 실습 경험을 쌓았습니다. 주요 활동으로 OWASP Top 10 기반 웹 취약점 분석, 리버스 엔지니어링 스터디, 그리고 CTF(Capture The Flag) 대회 참여를 통해 실전 보안 역량을 강화했습니다. 팀원들과 협력하여 다양한 공격 기법을 학습하고 방어 전략을 논의하며, 실질적인 보안 문제 해결 능력을 키웠습니다."
 
 
 ### Testimonials [ testimonials ]
