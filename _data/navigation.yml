@@ -43,7 +43,8 @@ main:
 
   # Blog
   - title: "Blog"
-    url: "#blog-section"
+    # url: "#blog-section"
+    url: "blog/"
     parent: 0
 
   # Contact
@@ -60,4 +61,5 @@ main:
           url: "works/"
 
         - title: "Blog"
-          url: "blog/"
+          # url: "blog/"
+          url: "#blog-section"
