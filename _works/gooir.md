@@ -25,9 +25,9 @@ description1:
     <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>
 
 gallery:
-  - assets/img/works/work5.jpeg
-  - assets/img/blog/blog8.jpg
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/lobby.png
+  - assets/img/works/11.png
+  - assets/img/works/many.png
 
 description2:
   title: Project Result
